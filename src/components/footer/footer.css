@@ -1,0 +1,310 @@
+.footer-page {
+     
+     color: rgb(0, 0, 0);
+     background-color: rgba(255, 255, 255, 0.986);
+     font-size: 2rem;
+     margin-top: 3rem;
+     height: 30rem;
+     padding-top: 2rem;
+  
+     
+     
+     
+ }
+
+ .footer-container{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     text-align: center;
+     margin-top: 5rem;
+     padding-left: 10rem;
+     padding-right: 10rem;
+     line-height: 2rem;
+     margin-bottom: 2rem;
+ }
+
+.title-container {
+    text-align: center;
+    font-family: 'Rock Salt', cursive;
+    color: black;
+    
+}
+
+
+.footer-t-v {
+    font-family: 'Rock Salt', cursive; font-family: 'Rock Salt', cursive;
+    margin-bottom: 1rem;
+    color: rgb(251, 4, 4);
+    padding-bottom: 3px;
+    
+
+   
+}
+
+
+.footer-t-c {
+    font-family: 'Rock Salt', cursive; font-family: 'Rock Salt', cursive;
+    margin-bottom: 1rem;
+    color: rgb(251, 4, 4);
+}
+
+
+.footer-t-w {
+    font-family: 'Rock Salt', cursive; font-family: 'Rock Salt', cursive;
+    margin-bottom: 1rem;
+    color: rgb(251, 4, 4);
+}
+/* .title-Footer {
+    background:linear-gradient(45deg,#54278F,#B70C8B);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+.footerTitle 
+    
+} */
+
+.footerTitle  {
+ text-decoration:line-through red;
+}
+
+ .footer-p {
+     font-size: 1rem;
+     background-color:  #ffff0000;
+     font-family: 'Rock Salt', cursive; font-family: 'Rock Salt', cursive;
+     color:black;
+     height: 12rem;
+     border-radius: 100px;
+     font-family: 'Hahmlet', serif;
+ }
+
+
+ .stick-note {
+     padding-top: .5rem;
+     background-color: #f601d57a;
+    
+     box-shadow: 1px  10px 1px 5px #00000048;
+     height: 15rem;
+     width: 22rem;
+     
+
+
+ }
+
+
+ 
+
+ 
+
+ .stick-note-v {
+    padding-top: .5rem;
+    background-color: #0ea7ee85;
+    
+    box-shadow: 1px  10px 1px 5px #00000048;
+    
+    height: 15rem;
+    width: 22rem;
+ }
+
+
+
+ 
+ 
+
+ .footer-h {
+    padding-top: .5rem;
+    background-color: #ffff0077;
+    font-family: 'Rock Salt', cursive;
+    box-shadow: 1px  10px 1px 5px #00000048;
+    height: 15rem;
+    width: 22rem;
+
+ }
+
+ .footerNotes {
+    margin-top: 5rem;
+    background-color: rgb(255, 13, 13);
+    width: 10rem;
+    height: 10rem;
+ }
+
+ .footer-info {
+     border: 2px soild rgb(251, 8, 8);
+ }
+
+ .copyright {
+     margin-top: 5rem;
+     background-color: rgba(0, 0, 0, 0);
+     text-align: center;
+     font-size: 1rem;
+     font-family: 'Rock Salt', cursive;
+     color: black;
+ }
+
+ a {
+    
+    margin: 0;
+    padding: 0;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    scroll-behavior:smooth;
+
+ }
+ a span {
+     display: inline-flex;
+     
+
+   
+    
+    color: #B70C8B;
+   
+
+ }
+
+a span:nth-child(even) {
+     overflow:hidden;
+     transition: ease-in-out 0.5s;
+     color:white;
+     border-bottom: 4px solid #B70C8B;
+     letter-spacing: -1em; 
+     
+ }
+
+a:hover span:nth-child(even) {
+    letter-spacing: 0;
+   
+
+    
+    
+ }
+
+a:hoover span:nth-child(2){
+     transition-delay: 0s;
+ }
+
+ .me {
+     background-color: yellow;
+ }
+
+
+ .social {
+     display: flex;
+     justify-content: center;
+     
+ }
+
+ .social-icon {
+  padding-top: 10px;
+  margin-top: .5rem;
+  width: 4rem;
+  height: 4rem;
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  border-radius: 50%;
+  text-align: center;
+  
+  
+  position: relative;
+ 
+ }
+
+
+ .social-icon-f {
+    padding-top: 10px;
+    margin-top: .5rem;
+    width: 4rem;
+    height: 4rem;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border-radius: 50%;
+    text-align: center;
+
+
+ }
+
+ .social-icon-t:hover {
+     color: #5DA9DD;
+ }
+
+
+ .social-icon-i:hover {
+
+     color:#E6475E;
+
+ }
+
+
+ .social-icon-y:hover {
+     color: red;
+ }
+
+
+ .social-icon-t {
+
+    padding-top: 10px;
+    margin-top: .5rem;
+    width: 4rem;
+    height: 4rem;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border-radius: 50%;
+    text-align: center;
+
+
+ }
+
+
+ .social-icon-i {
+
+    padding-top: 10px;
+    margin-top: .5rem;
+    width: 4rem;
+    height: 4rem;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border-radius: 50%;
+    text-align: center;
+
+
+ }
+
+ .social-icon-y {
+    padding-top: 10px;
+    margin-top: .5rem;
+    width: 4rem;
+    height: 4rem;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border-radius: 50%;
+    text-align: center;
+
+
+ }
+
+
+
+
+
+ /* .social-icon:before, .social-icon:after {
+    content: '';
+    position: absolute;
+    left: -20px;
+    right: -20px;
+    top: -20px;
+    bottom: -20px;
+    border: 1px solid black;
+    border-radius: 50%;
+    animation: pulse 1.5s linear infinite;
+ }
+
+ .social-icon:after {
+    animation-delay: 0.5s;
+     
+ }
+
+ @keyframes pulse {
+    0% { transform: scale(0.5); opacity: 0 }
+    50% { transform: scale(1); opacity: 1 }
+    100% { transform: scale(1.2); opacity: 0 }
+  } */

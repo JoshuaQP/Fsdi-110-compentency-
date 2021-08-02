@@ -1,0 +1,111 @@
+.OGForm {
+    margin-top: 5rem;
+    background-color: rgb(255, 255, 255);
+    height:50%;
+    width: 50%;
+    border-right: 3px dashed rgb(3, 3, 3);
+    
+    font-weight: bold;
+     padding: 10px;
+     margin-left: 15rem;
+     margin-top: 15rem;
+     font-family: 'Rock Salt', cursive;
+     
+     
+     
+    
+    text-align: left;
+    
+}
+.form-Container {
+display: flex;
+
+}
+.fixE {
+    text-decoration: 3px line-through red;
+}
+
+
+.btn {
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(5, 5, 5);
+    border-radius: 10px;
+    color: rgb(255, 255, 255) ;
+   
+    
+}
+.btn:hover {
+    background-color:#ffffff;
+    transition: all .3s;
+    transition-timing-function: cubic-bezier(0.25, 0.25, 0.285, 1.3);
+    ;
+  
+    color:rgb(0, 0, 0);
+    border: 1px solid white;
+}
+
+
+
+.contactinfo {
+    margin-top: 15rem;
+    text-align: left;
+    margin-left: 5rem;
+    font-family: 'Rock Salt', cursive;   
+   
+    width: 32rem;
+}
+
+.Office {
+    margin-bottom: 3rem;
+}
+
+.bussiness {
+    margin-bottom: 3rem;
+}
+
+.el {
+    margin-left: 2rem;
+    color: red;
+
+}
+
+.fL{
+    color: red;
+}
+.fli {
+    margin-left: 3rem;
+}
+
+.sL {
+    color: red;
+}
+/* .sL input {
+    
+
+} */
+.mL {
+    color:red
+}
+
+.sli {
+    margin-left: 2rem;
+}
+
+
+.concact-P {
+    font-size: medium;
+    margin-top: 2rem;
+    color: black;
+    padding-left: 10px;
+    margin-bottom: 2rem;
+    border-radius: 10px;
+}
+
+section {
+    margin-bottom: 5rem;
+}
+
+.conatctus {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}

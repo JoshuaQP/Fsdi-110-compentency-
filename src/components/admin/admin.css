@@ -1,0 +1,18 @@
+
+.myForm {
+    background-color: rgba(207, 207, 207, 0.746);
+    padding-top: 8rem;
+    margin-left: 30rem;
+    width:10rem;
+    color: black;
+    border-radius: 10px;
+    height:5rem;
+
+    height: 50vh;
+    width: 50vw;
+}
+
+.myForm label {
+    margin-top: 1rem;
+    
+}
